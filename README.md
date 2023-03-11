@@ -21,9 +21,6 @@ chatgpt 非官方桌面 client
 ## 钉钉
 - [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)
 
-- chatgpt-dingtalk(https://github.com/eryajf/chatgpt-dingtalk)
-
-
 ## 飞书
 - [larkgpt](https://github.com/bytemate/larkgpt)
 
