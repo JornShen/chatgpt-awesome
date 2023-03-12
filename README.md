@@ -3,7 +3,7 @@
 # 客户端
 - chatgpt 非官方桌面 client  [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 
-- mac menubar chatgpt 入口[chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
+- mac menubar [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 # 平台集成
 在各个平台上使用 ChatGPT
