@@ -1,4 +1,4 @@
-# ChatGPT 导航
+# ChatGPT 项目导航
 
 # 客户端
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
@@ -11,9 +11,9 @@ chatgpt 非官方桌面 client
 ## 微信
 - 聊天 [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
 
-- 聊天机器人 [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
+- 聊天机器人 [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
 
-- 聊天机器人 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
+- 聊天机器人 [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
 
 ## QQ
 - [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)
@@ -74,6 +74,8 @@ chatgpt 非官方桌面 client
 - web 界面展示 [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
 
 - demo show [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
+
+- 基于 laf 开发的chatGPT 点开即聊 [chatGPT](https://github.com/zuoFeng59556/chatGPT)
 
 
 # 其他导航
