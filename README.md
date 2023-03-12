@@ -1,8 +1,9 @@
 # ChatGPT 项目导航
 
 # 客户端
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
-chatgpt 非官方桌面 client 
+- chatgpt 非官方桌面 client  [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
+
+- mac menubar chatgpt 入口[chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 # 平台集成
 在各个平台上使用 ChatGPT
@@ -66,6 +67,10 @@ chatgpt 非官方桌面 client
 - 写出一定风格的推特简介 [twitterbio](https://github.com/Nutlope/twitterbio)
 
 - 划词翻译应用 [openai-translator](https://github.com/yetone/openai-translator)
+
+# 开发工具
+- ChatGPT CodeReview [chatgpt-action](https://github.com/kxxt/chatgpt-action)
+- 运维平台代码生成器 [gofireflyio/aiac](https://github.com/gofireflyio/aiac)
 
 
 # Server
