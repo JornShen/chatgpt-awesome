@@ -37,6 +37,7 @@
 - 支持页面上文字输入框接入 chatgpt [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)
 - 支持语音和 chatgpt 交互 [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt)
 - 谷歌搜索结果接入 [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)
+- 支持 bing和chatgpt 同时聊天[chathub](https://github.com/chathub-dev/chathub)
 
 ## twitter
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
