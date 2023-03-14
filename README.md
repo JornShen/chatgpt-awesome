@@ -5,6 +5,8 @@
 
 - mac menubar [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
+- 跨平台的 openai client 同时自带管理工具 [chatbox](https://github.com/Bin-Huang/chatbox)
+
 # 平台集成
 在各个平台上使用 ChatGPT
 
@@ -69,10 +71,11 @@
 
 - 划词翻译应用 [openai-translator](https://github.com/yetone/openai-translator)
 
-# 开发工具
+- Paper 总结工具 [ChatPaper](https://github.com/kaixindelele/ChatPaper)
+
+# 开发者工具
 - ChatGPT CodeReview [chatgpt-action](https://github.com/kxxt/chatgpt-action)
 - 运维平台代码生成器 [gofireflyio/aiac](https://github.com/gofireflyio/aiac)
-
 
 # Server
 服务端
@@ -85,6 +88,11 @@
 - demo show [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
 
 - 基于 laf 开发的 chatGPT 点开即聊 [chatGPT](https://github.com/zuoFeng59556/chatGPT)
+
+- azure 部署使用 openai 来检索发现信息 [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo)
+
+# 基础工具
+- 为各种应用程序创建专用和通用聊天机器人的基础库 [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
 
 # 其他导航
