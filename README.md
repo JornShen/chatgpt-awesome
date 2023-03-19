@@ -1,11 +1,17 @@
 # ChatGPT 项目导航
 
+# 免费体验地址
+- [carrot](https://github.com/xx025/carrot)
+
+
 # 客户端
 - chatgpt 非官方桌面 client  [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 
 - mac menubar [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)
 
 - 跨平台的 openai client 同时自带管理工具 [chatbox](https://github.com/Bin-Huang/chatbox)
+
+- 和浏览器深度集成 [chatGPTBox](https://github.com/josStorer/chatGPTBox)
 
 # 平台集成
 在各个平台上使用 ChatGPT
@@ -100,3 +106,4 @@
 
 ---
 持续更新中，欢迎 PR :)
+
