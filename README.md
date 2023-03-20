@@ -81,6 +81,8 @@
 
 - Paper 总结工具 [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
+- 用对话方式了解pdf文章 [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
+
 # 开发者工具
 - ChatGPT CodeReview [chatgpt-action](https://github.com/kxxt/chatgpt-action)
 - 运维平台代码生成器 [gofireflyio/aiac](https://github.com/gofireflyio/aiac)
