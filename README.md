@@ -15,6 +15,8 @@
 
 - 本地浏览器客户端 [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
+- shell 客户端 [shell_gpt](https://github.com/TheR1D/shell_gpt)
+
 # 平台集成
 在各个平台上使用 ChatGPT
 
@@ -41,7 +43,8 @@
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot)
 
 ## VSCode
-- [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
 
 ## chrome 插件
 - 支持页面上文字输入框接入 chatgpt [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)
@@ -58,10 +61,8 @@
 
 - [中文调教 awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
-
 # SDK 
 不同语言的 client 端
-
 - nodeJS [chatgpt-api](https://github.com/transitive-b-ullshit/chatgpt-api)
 
 - java [chatgpt-java](https://github.com/PlexPt/chatgpt-java)
@@ -87,12 +88,12 @@
 - ChatGPT CodeReview [chatgpt-action](https://github.com/kxxt/chatgpt-action)
 - 运维平台代码生成器 [gofireflyio/aiac](https://github.com/gofireflyio/aiac)
 - openai 调用案例 [openai-cookbook](https://github.com/openai/openai-cookbook)
+- 和Unity Editor集成 [AICommand](https://github.com/keijiro/AICommand)
 
 # Server
 服务端
 - [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server)
 - [chatapi-single](https://github.com/bytemate/chatapi-single)
-
 
 # Demo
 - web 界面展示 [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
