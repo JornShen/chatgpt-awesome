@@ -84,11 +84,13 @@
 
 - 用对话方式了解pdf文章 [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 
+- kubectl命名集成chatgpt [kubectl-ai](https://github.com/sozercan/kubectl-ai)
+
 # 开发者工具
 - ChatGPT CodeReview [chatgpt-action](https://github.com/kxxt/chatgpt-action)
 - 运维平台代码生成器 [gofireflyio/aiac](https://github.com/gofireflyio/aiac)
 - openai 调用案例 [openai-cookbook](https://github.com/openai/openai-cookbook)
-- 和Unity Editor集成 [AICommand](https://github.com/keijiro/AICommand)
+- 和 Unity Editor 集成 [AICommand](https://github.com/keijiro/AICommand)
 
 # Server
 服务端
@@ -110,6 +112,12 @@
 
 # 其他导航
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+
+# 方案替代
+
+- 平价的chatgpt实现方案 [ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning)
+
+- chatgpt开源替代品 [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 
 ---
