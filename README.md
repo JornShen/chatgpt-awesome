@@ -17,6 +17,8 @@
 
 - shell 客户端 [shell_gpt](https://github.com/TheR1D/shell_gpt)
 
+- 川虎 Chatgpt [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+
 # 平台集成
 在各个平台上使用 ChatGPT
 
@@ -41,6 +43,7 @@
 
 ## Slack
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot)
+- [myGPTReader](https://github.com/madawei2699/myGPTReader)
 
 ## VSCode
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
