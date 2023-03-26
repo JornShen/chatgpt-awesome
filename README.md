@@ -3,7 +3,6 @@
 # 免费体验地址
 - [carrot](https://github.com/xx025/carrot) | 网页链接 [site.loefairy.top](https://site.loefairy.top/)
 
-
 # 客户端
 - chatgpt 非官方桌面 client  [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 
@@ -89,11 +88,18 @@
 
 - kubectl命名集成chatgpt [kubectl-ai](https://github.com/sozercan/kubectl-ai)
 
+- chatgpt 检索插件 [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+
 # 开发者工具
 - ChatGPT CodeReview [chatgpt-action](https://github.com/kxxt/chatgpt-action)
+
 - 运维平台代码生成器 [gofireflyio/aiac](https://github.com/gofireflyio/aiac)
+
 - openai 调用案例 [openai-cookbook](https://github.com/openai/openai-cookbook)
+
 - 和 Unity Editor 集成 [AICommand](https://github.com/keijiro/AICommand)
+
+- AI代码编辑器 [cursor](https://github.com/getcursor/cursor)
 
 # Server
 服务端
