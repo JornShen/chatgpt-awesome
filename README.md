@@ -18,6 +18,8 @@
 
 - 川虎 Chatgpt [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 
+- 中科院科研工作专用ChatGPT [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+
 # 平台集成
 在各个平台上使用 ChatGPT
 
