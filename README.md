@@ -20,6 +20,9 @@
 
 - 中科院科研工作专用ChatGPT [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 
+- bing的聊天客户端 [BingGPT](https://github.com/dice2o/BingGPT)
+
+
 # 平台集成
 在各个平台上使用 ChatGPT
 
@@ -103,6 +106,8 @@
 
 - AI代码编辑器 [cursor](https://github.com/getcursor/cursor)
 
+- Blender 内集成GPT能力 [BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+
 # Server
 服务端
 - [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server)
@@ -119,7 +124,6 @@
 
 # 基础工具
 - 为各种应用程序创建专用和通用聊天机器人的基础库 [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
-
 
 # 其他导航
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
